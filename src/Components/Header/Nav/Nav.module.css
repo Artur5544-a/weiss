@@ -1,0 +1,46 @@
+.Nav{
+    margin-top: 64px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.nav ul{
+    display: flex;
+}
+.nav ul li{
+    font-size: 16px ;
+    line-height: 40px;
+    font-weight: bold;
+    list-style: none;
+    margin: 0 40px;
+}
+.nav ul li svg{
+    margin: 0 5px;
+}
+
+.active{
+    color: #FF9900;
+}
+.nav_btn{
+    display: flex;
+    align-items: center;
+}
+.navBtn{
+    font-size: 16px;
+    border: none;
+    color: white;
+    background-color: #FF9900;
+    padding: 14px 24px;
+}
+.navBtn svg{
+    font-size: 16px;
+    color: white;
+    margin: 0 0 0 19px ;
+}
+@media screen and (max-width:1000px) {
+    .nav ul{
+        display: none;
+    }
+
+    
+}

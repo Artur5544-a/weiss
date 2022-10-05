@@ -1,0 +1,43 @@
+.Header{
+    max-width: 1216px ;
+    margin: 0 auto;
+    width: 100%;
+}
+.header_main{
+    flex-wrap: wrap;
+    margin-top: 96px;
+    display: flex;
+    justify-content: space-between;
+}
+.header_txt h3{
+    margin-top: 100px;
+    color: #929A9F;
+    font-size: 14px;
+    line-height: 20px;
+}
+.header_txt h1{
+    max-width: 470px;
+    margin-top: 15px;
+    color: #263640;
+    font-size: 32px;
+    line-height: 45px;
+}
+.header_txt h2{
+    max-width: 427px;
+    margin-top: 15px;
+    color: #929A9F;
+    font-size: 16px;
+    line-height: 28px;
+}
+.header_txt_btn{
+    display: flex;
+    align-items: center;
+    border: none;
+    background-color: #FF9900;
+    color: #FFFFFF;
+    padding: 14px 16px;
+}
+.header_txt_btn svg{
+    margin: 0 0 0 24px;
+    color: #FFFFFF;
+}
