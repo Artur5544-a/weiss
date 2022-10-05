@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/weiss/static/css/main.9a2440f4.css",
+    "main.js": "/weiss/static/js/main.61e765a5.js",
+    "static/media/Image5.png": "/weiss/static/media/Image5.833eb1280b240ca7cd4f.png",
+    "static/media/Image4.png": "/weiss/static/media/Image4.488676b267f40691e74c.png",
+    "static/media/Image.png": "/weiss/static/media/Image.cd69c10041a590c05912.png",
+    "static/media/Image2.png": "/weiss/static/media/Image2.d5dba5d193c6026d318b.png",
+    "static/media/Image1.png": "/weiss/static/media/Image1.3c0860c2b7bad551f2ab.png",
+    "static/media/Image3.png": "/weiss/static/media/Image3.fc7231ae845a065239b6.png",
+    "index.html": "/weiss/index.html",
+    "main.9a2440f4.css.map": "/weiss/static/css/main.9a2440f4.css.map",
+    "main.61e765a5.js.map": "/weiss/static/js/main.61e765a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a2440f4.css",
+    "static/js/main.61e765a5.js"
+  ]
+}
